@@ -15,3 +15,8 @@ Simple app to download videos from YouTube using pytube
 <li>Add UI ✅</li>
 <li>Allow user to choose between different streams ⬜</li>
 </ul>
+<h2>Used technologies</h2>
+<ul>
+<li>PyTube</li>
+<li>PySimpleGUI</li>
+</ul>
